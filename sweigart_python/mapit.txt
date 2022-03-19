@@ -1,0 +1,8 @@
+mapit can redirect you to the Google Map of the entered destination using the Run terminal invoked using Windows Key + R
+Then, just type in 
+
+mapit <ADDRESS>
+
+Note : Before using it, make sure to change the path of the batch file to the current destination of your mapit.py file.
+And also add that path to your System Environment Variables to use the mapit command in the Run terminal properly as 
+intended. 
